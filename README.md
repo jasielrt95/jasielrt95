@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/jasiel_rt95" target="blank"><img src="https://img.shields.io/twitter/follow/jasiel_rt95?logo=twitter&style=for-the-badge" alt="jasiel_rt95" /></a> </p>
 
-- I’m currently working on [Kavita project](https://kavitaproject.blogspot.com/) and MediaFind🔍
-
 - 💼[Portfolio](https://jasielrivera.com/)
 
 - 📧[Email](jasielrt95@gmail.com)
